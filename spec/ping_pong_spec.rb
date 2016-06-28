@@ -1,8 +1,5 @@
 require('rspec')
 require('ping_pong')
-require('sinatra')
-require('sinatra/reloader')
-require('pry')
 
 describe('Fixnum#ping_pong') do
   it("is ping for a number divisible by 3") do
