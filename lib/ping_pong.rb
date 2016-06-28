@@ -17,4 +17,4 @@ class Fixnum
   end
 end
 
-output_ping_pong = @user_number.ping_pong
+# output_ping_pong = @user_number.ping_pong
