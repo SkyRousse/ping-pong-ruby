@@ -21,7 +21,7 @@ Returned numbers that are evenly divisible by 5 are replaced with "pong"|10|1,2,
 Returned numbers that are evenly divisible by 15 are replaced with "pingpong"|15|1,2,ping,4,pong,ping,7,8,ping,pong,11,ping,13,14,pingpong
 ## Setup/Installation Requirements
 
-* _Download from github: <a href="https://github.com/SkyRousse/ping-pong-ruby.git</a>_
+* _Download from github: <a href="https://github.com/SkyRousse/ping-pong-ruby.git"</a>_
 * _Open in a web browser_
 * _Or visit site at: http://skyrousse.github.io/ping-pong-ruby/_
 
