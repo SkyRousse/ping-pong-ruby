@@ -7,6 +7,6 @@ get('/') do
 end
 
 get('/result_display') do
-  @UserNumber = params.fetch('UserNumberx')
+  @UserNumber = params.fetch('user_number')
   erb(:result_display)
 end
