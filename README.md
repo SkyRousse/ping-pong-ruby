@@ -1,4 +1,4 @@
-# Ping Pong
+# Ping Pong Ruby
 
 #### _Number generating web app, June 10, 2016_
 
